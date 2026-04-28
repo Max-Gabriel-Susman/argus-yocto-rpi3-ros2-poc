@@ -1,0 +1,8 @@
+0801e490776d3f4de8a0e20aafba1f072a3897040f4fca4c4ab85fa87266b3c2  ./bblayers.conf
+68fb70eaf5c5733632216055e0bd909795780084bacd57b506215e223b925d37  ./core-image-base-raspberrypi3.manifest
+44385d56202543c01b5148b3355a0047e9da47535187cceaa84c2e133ab69d24  ./core-image-base-raspberrypi3.wic.bmap
+9247680f9a571f4e02ef6d8fac4d55245ec5a886ad32fb2e9bd1b762deab04c5  ./core-image-base-raspberrypi3.wic.bz2
+ab31b63f10a140d1be58cdf847534f205d67d83331071e793515e47c806b76fd  ./git-revisions.txt
+0129162588d4bbb76adac28e515f40e01d7a7fae9e6e0d8f899a1a5b357f8816  ./layers.txt
+227ac3245841a9077b5a08390a0c35f85d7ef9df6b80c95f10b2dfb4bcf906b4  ./local.conf
+261d1ac2134e42ff44cdf68655a58f7f05e2def6b4f4119b096a89c74ebfadad  ./README-RESTORE.md

@@ -1,0 +1,3 @@
+poky: 4a5e618f5713600552c6c3edb1bfaa42c4506789
+meta-openembedded: 9d8ef26a9693e2c70ae34abe1a753873d42ec588
+meta-raspberrypi: 255500dd9f6a01a3445ac491d1abc401801e3bad

@@ -1,0 +1,7 @@
+317b9b53db7d879e311b883b6d43d4bdbed98cef0a9415dec75a76e2f501898b  /home/prometheus/yocto-rpi3/releases/rpi3-poc-sysvinit-working-20260426-131744/local.conf.before-systemd
+1ac32acad32b43c8ea3b478335cf45113f35bead235f33f47ed38bdd8c660b08  /home/prometheus/yocto-rpi3/releases/rpi3-poc-sysvinit-working-20260426-131744/core-image-base-rpi3-sysvinit.manifest
+56d27cab62b985f13407e9b2f92965781d0c7a89708971da6da496b9caefa125  /home/prometheus/yocto-rpi3/releases/rpi3-poc-sysvinit-working-20260426-131744/git-revisions.txt
+d0c24aabcf3b752365e2339f5b8575905a335f74c167e1ac710c21d7f2550ddd  /home/prometheus/yocto-rpi3/releases/rpi3-poc-sysvinit-working-20260426-131744/core-image-base-rpi3-sysvinit.wic.bz2
+4ee9571dc1326656ca148eca6836c505d7a7a070525ba80db6547c3779a77c05  /home/prometheus/yocto-rpi3/releases/rpi3-poc-sysvinit-working-20260426-131744/bblayers.conf
+02fe3c64a042612e984c49b38bdf5243fb4db64026aad2c86abfd50fd200943c  /home/prometheus/yocto-rpi3/releases/rpi3-poc-sysvinit-working-20260426-131744/layers.txt
+aa512af82b4e0af7b1928dc9b5df00994b1fb084028797efe6bef4ab4b891d9d  /home/prometheus/yocto-rpi3/releases/rpi3-poc-sysvinit-working-20260426-131744/core-image-base-rpi3-sysvinit.wic.bmap

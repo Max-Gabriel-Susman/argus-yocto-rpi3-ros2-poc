@@ -1,0 +1,10 @@
+NOTE: Starting bitbake server...
+layer                 path                                      priority
+==========================================================================
+meta                  /home/prometheus/yocto-rpi3/poky/meta     5
+meta-poky             /home/prometheus/yocto-rpi3/poky/meta-poky  5
+meta-yocto-bsp        /home/prometheus/yocto-rpi3/poky/meta-yocto-bsp  5
+meta-oe               /home/prometheus/yocto-rpi3/meta-openembedded/meta-oe  5
+meta-python           /home/prometheus/yocto-rpi3/meta-openembedded/meta-python  5
+meta-networking       /home/prometheus/yocto-rpi3/meta-openembedded/meta-networking  5
+meta-raspberrypi      /home/prometheus/yocto-rpi3/meta-raspberrypi  9

@@ -1,0 +1,39 @@
+# Yocto build outputs
+build*/
+tmp/
+sstate-cache/
+downloads/
+cache/
+
+# Upstream layers cloned locally
+poky/
+meta-openembedded/
+meta-raspberrypi/
+meta-ros/
+
+# Generated images/artifacts
+*.wic
+*.wic.bz2
+*.wic.bmap
+*.ext3
+*.ext4
+*.tar.bz2
+*.manifest
+*.testdata.json
+*.dtb
+*.dtbo
+*.tgz
+zImage*
+modules-*.tgz
+
+# Secrets / local credentials
+*wpa_supplicant*.conf
+*.secret
+*.key
+*.pem
+
+# Editor/system noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
